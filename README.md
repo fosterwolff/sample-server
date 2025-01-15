@@ -1,1 +1,1 @@
-Project for demonstration purpuses of back-end, front-end and optimization technologies.
+Project for demonstration purposes of back-end, front-end and optimization technologies.
